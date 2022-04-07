@@ -12,5 +12,5 @@ function add(n) {
 }
 
 function subtract(a, b) {
-  return gerPositive(a) + b;
+  return getPositive(a) + b;
 }
