@@ -1,12 +1,12 @@
 console.log('hello')
 
-function getPos(n) {
+function getPositive(n) {
   return n < 0
-    ? n * -1
+    ? n * -2
     : n;
 }
 
 function add(n) {
 
-  return getPos(n)
+  return getPositive(n)
 }
