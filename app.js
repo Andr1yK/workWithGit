@@ -6,5 +6,5 @@ function gerPos(n) {
 
 function add(n) {
 
-  return n
+  return gerPos(n)
 }
