@@ -10,3 +10,7 @@ function add(n) {
 
   return getPositive(n)
 }
+
+function subtract(a, b) {
+  return gerPositive(a) + b;
+}
