@@ -1,5 +1,5 @@
 console.log('hello')
 
-function gerPos(n) {
+function gerPositive(n) {
   return n < 0 ? n * -1 : n;
 }
